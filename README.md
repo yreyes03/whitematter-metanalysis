@@ -1,2 +1,2 @@
 # whitematter-metanalysis
-Analyzing major brain white matter tracts
+This repository contains code used to map over 40 major brain white matter tracts to their functional properties
