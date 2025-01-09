@@ -23,6 +23,7 @@ Install gradec package from github using pip install git+https://github.com/Juli
 
 ## More Links and Resources
 Data was processed on brainlife.io 
+
 More information on decoder: https://pubmed.ncbi.nlm.nih.gov/37577598/
 
 Initial code was contributed by Sohmee Kim (University of texas at Austin), Julio Peraza (Florida International University), Suna Guo (University of Texas at Austin).
