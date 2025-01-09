@@ -6,7 +6,7 @@ https://neurosynth.org
 https://neuroquery.org
 
 ## discrete_decoder.ipynb
-This file has the code that analysis the neuroimaging data in volume space. The data consists of density plots of over 40 major white matter tracts. Data is plotted onto the brain cortex. This tool uses neurosynth to map the function onto each of these tracts. This code creates files containing white matter tracts, functional terms, and their corresponding z scores between term and tract. Also creates dendrogram and heatmaps that shows how functionally similar these tracts are. Can also creates brain plots, word clouds, and radar plots showing the top related functions of each tract.
+This file has the code that analysis the neuroimaging data in volume space. The data consists of density plots of over 40 major white matter tracts averaged from 162 subjects. Data is plotted onto the brain cortex. This tool uses neurosynth to map the function onto each of these tracts. This code creates files containing white matter tracts, functional terms, and their corresponding z scores between term and tract. Also creates dendrogram and heatmaps that shows how functionally similar these tracts are. Can also creates brain plots, word clouds, and radar plots showing the top related functions of each tract.
 
 
 ## surf2vol.ipynb
@@ -15,3 +15,6 @@ https://www.humanconnectome.org/software/connectome-workbench
 
 ## LDA_decoder.ipynb
 Contains code that uses Latent Dirichlet Allocation to assign functions to the white matter tracts using the neuroquery meta-analysis tool. Uses the same data as discrete decoder but in surface space instead. Creates dataframe with white matter tracts, functional topics, and corresponding correlation between topic and tract. Also creates dendrogram and heatmaps that shows how functionally similar these tracts are. Can also creates surface plots, word clouds, and radar plots showing the top related functions of each tract.
+
+## threshold.sh
+File was created to apply thresholding to averaged brain maps. Threhsold of 15% was applied. (aka at least 15% of participants must have tract endpoints in that vertex/voxel).
