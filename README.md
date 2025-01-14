@@ -26,6 +26,6 @@ Data was processed on brainlife.io
 
 More information on decoder: https://pubmed.ncbi.nlm.nih.gov/37577598/
 
-Initial code was contributed by Sohmee Kim (University of Texas at Austin), Julio Peraza (Florida International University), Suna Guo (University of Texas at Austin).
+This project was built on previous work by Sohmee Kim (University of Texas at Austin), Julio Peraza (Florida International University), Suna Guo (University of Texas at Austin).
 https://github.com/baramX3/white_matter_metanalysis
 
