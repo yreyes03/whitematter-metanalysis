@@ -22,7 +22,8 @@ File was created to apply thresholding to averaged brain maps. Threhsold of 15% 
 Install gradec package from github using pip install git+https://github.com/JulioAPeraza/gradec.git before running either jupyter notebook.
 
 ## More Links and Resources
-Data was processed on brainlife.io 
+Data was processed on brainlife.io https://brainlife.io/about/
+Link to pipeline: https://brainlife.io/project/660adcc38efa30ca6cb41162
 
 More information on decoder: https://pubmed.ncbi.nlm.nih.gov/37577598/
 
