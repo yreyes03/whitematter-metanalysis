@@ -29,3 +29,6 @@ More information on decoder: https://pubmed.ncbi.nlm.nih.gov/37577598/
 This project was built on previous work by Sohmee Kim (University of Texas at Austin), Julio Peraza (Florida International University), Suna Guo (University of Texas at Austin).
 https://github.com/baramX3/white_matter_metanalysis
 
+More project documentation: https://docs.google.com/document/d/1ub_Q_YWU3uR9bHrjQbl24Ffob4iUY1mSvJpCtN9KcAU/edit?tab=t.0
+
+
